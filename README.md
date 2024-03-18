@@ -15,8 +15,8 @@
 
 ## 📦 My current project
 <p align=center>
-   <a href="https://github.com/euikki/Mei" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaas-tavares&repo=Mei&hide_border=true&title_color=8A53B1FF&text_color=ffffff&icon_color=8A53B1FF&bg_color=0D1117" alt="Mei" ></a><br>
+   <a href="https://github.com/lucaas-tavares/Mei" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaas-tavares&repo=mei&hide_border=true&title_color=8A53B1FF&text_color=ffffff&icon_color=8A53B1FF&bg_color=0D1117" alt="Mei" ></a><br>
 </p>
 
 ---
