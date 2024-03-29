@@ -1,6 +1,6 @@
 
-<h2 align="center"><img src="https://github.com/euikki/euikki/blob/main/icon/Hi.gif"  width="38px" height="38px"/> Olá desenvolvedores!!</h2>
-<h4>E ai? Eu sou o Lucas, sou um iniciante no mundo da programação e no meu tempo livre faço alguns projetos por aí.</h4>
+<h1 align="center"><img src="https://github.com/euikki/euikki/blob/main/icon/Hi.gif"  width="38px" height="38px"/> Olá desenvolvedores!!</h1>
+<h3>E ai? Eu sou o Lucas, sou um iniciante no mundo da programação e no meu tempo livre faço alguns projetos por aí.</h3>
 
 - 🎨 Desenvolvedor Front-end.
 - 📚 Rumo a perfeição em Javascript.
