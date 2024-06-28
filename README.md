@@ -16,7 +16,7 @@
 </div>
 
 ---
-<a href="https://www.instagram.com/eu.ikki/"><img src="https://img.shields.io/badge/-Instagram-2f3136?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/lucaas_tavares05/"><img src="https://img.shields.io/badge/-Instagram-2f3136?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/invite/wQGtXQfUTe" target="_blank"><img src="https://img.shields.io/badge/Discord-2f3136?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,git,vscode,figma,mongo)](https://skillicons.dev)
