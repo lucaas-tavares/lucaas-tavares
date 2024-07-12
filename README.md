@@ -1,7 +1,7 @@
-<h1 align="center"> <img height="50" src="https://emoji.discadia.com/emojis/eb8ea5f3-e6c5-4659-8738-7290da664bf5.gif"/>  Bem vindo-a ao meu perfil do GitHub! <img height="50" src="https://emoji.discadia.com/emojis/1148b4ba-0bbe-4ee6-9cb3-dc4727128bc5.GIF"></h1>
+<h1 align="center"> <img height="60" src="https://i.imgur.com/Bbponhb.gif"/>  Bem vindo-a ao meu perfil do GitHub!</h1>
 
 
-<img height="200" src="https://giffiles.alphacoders.com/142/142464.gif" align="right" />
+<img height="200" src="https://i.imgur.com/c6pHbpp.gif" align="right" />
 
 <p align="left">Aoba mosfi! eu sou o Lucas, um simples garoto que no começo iniciou no mundo da programação apenas por puro entretenimento e diversão, mas que agora busca fazer dessa diversão o seu "ganha pão".</p>
 
