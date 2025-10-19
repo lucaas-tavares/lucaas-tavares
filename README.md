@@ -34,7 +34,7 @@
 <h3>📫 Contato</h3>
 <p>
 - <strong>Email:</strong> <a href="mailto:eu.ikki.dev@gmail.com" target="_blank">eu.ikki.dev@gmail.com</a></br>
-- <strong>Instagram:</strong> <a href="https://www.instagram.com/lc._tavares/" target="_blank">lc._tavares</a></br>
+- <strong>Instagram:</strong> <a href="https://www.instagram.com/_.ltavares/" target="_blank">_.ltavares</a></br>
 - <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucas-tavares-389766301/" target="_blank">Lucas Tavares</a></br>
 <!-- - **Portfólio:** <a href="#">Meu Portfólio</a></br> -->
 </p>
